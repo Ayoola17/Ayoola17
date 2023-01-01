@@ -14,3 +14,10 @@ Using DBSCAN algorithm to target customers with low Credit card activities with 
 <a href='https://nbviewer.org/github/Ayoola17/Machine-learning-Notebook/blob/main/Machine%20learning%20notebook/Unsupervised%20ML/dbscan.ipynb'>DBSCAN</a>
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/16554628/210121852-aa5e9287-840f-4da7-9a8a-b7c4b171e2eb.png)
+
+<h1>Deep learning</h1>
+<h4> Variational Autoencoder</h4>
+Creating a varaitional autoencoder model using the model sub classing method in keras. The model is trained using the fashion mnist dataset from tensorflow dataset which contains pictures of shirts and shoes.
+<a href='https://github.com/Ayoola17/Deep-learning-Notebook/blob/main/Deep%20learning/VAE_subclassing.ipynb'> Variational Autoencoder</a>
+
+![Screenshot (127)](https://user-images.githubusercontent.com/16554628/210160344-6bfe6f18-d57e-4811-b4fb-e298fc840e9e.png)
