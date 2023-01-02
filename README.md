@@ -6,7 +6,7 @@ Data scientist with MSc in Data Science and 5+ years' Experience using Machine L
 Using the inceptionV3 Architecture for image classification. The cat vs Dog image was use for training the model. The inceptionv3 model was used as the base model with the layers in it set as trainable.
 <a href='https://github.com/Ayoola17/Deep-learning-Notebook/blob/main/Deep%20learning/Inceptionv3_image_classification.ipynb'>Inceptionv3 Image Classification</a>
 
-![Screenshot (129)](https://user-images.githubusercontent.com/16554628/210192622-fe6b0182-7960-4c71-b520-ed1673cd1cdd.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/16554628/210192995-f5b9f0df-e79b-4407-8b4b-05af9e8daadc.png)
 
 <h2> Variational Autoencoder</h2>
 Creating a varaitional autoencoder model using the model sub classing method in keras. The model is trained using the fashion mnist dataset from tensorflow dataset which contains pictures of shirts and shoes.
