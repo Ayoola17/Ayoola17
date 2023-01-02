@@ -3,7 +3,7 @@ Data scientist with MSc in Data Science and 5+ years' Experience using Machine L
 
 <h1>Deep learning</h1>
 <h2>Inceptionv3 Image Classification</h2>
-Using the inceptionV3 Architecture for image classification. The cat vs Dog image was use for training the model. The inceptionv3 model was used as the base model with the layers in it set as trainable.
+Using the inceptionV3 Architecture for image classification. The cat vs Dog Dataset was use for training the model. The inceptionv3 model was used as the base model with the layers in it set as trainable.
 <a href='https://github.com/Ayoola17/Deep-learning-Notebook/blob/main/Deep%20learning/Inceptionv3_image_classification.ipynb'>Inceptionv3 Image Classification</a>
 
 ![Screenshot (131)](https://user-images.githubusercontent.com/16554628/210192995-f5b9f0df-e79b-4407-8b4b-05af9e8daadc.png)
