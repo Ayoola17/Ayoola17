@@ -1,6 +1,8 @@
 <h1>Profile</h1>
 Data scientist with MSc in Data Science and 5+ years' Experience using Machine Learning algorithms to solve challenging problems. I have a strong background in Exploratory Data Analysis and computer vision. I’ve been involved in several Machine Learning and Deep Learning competitions. I'm constantly aiming to develop new skills and gain knowledge on more methods of getting insights from Data.
 
+
+
 <h1>Deep learning</h1>
 <h2> Fraud Detection with Deep Learning</h2>
 I used the credit card Dataset from Kaggle to train a Deep learning model. The dataset has 2 class labels which are valid transaction and Fraudulent transaction. The task is to create a model that can correctly detect a fraudulent transaction. The model I built was able to make prediction on the test dataset to an accuracy of 99.9%
