@@ -2,8 +2,15 @@
 Data scientist with MSc in Data Science and 5+ years' Experience using Machine Learning algorithms to solve challenging problems. I have a strong background in Exploratory Data Analysis and computer vision. I’ve been involved in several Machine Learning and Deep Learning competitions. I'm constantly aiming to develop new skills and gain knowledge on more methods of getting insights from Data.
 
 <h1>Deep learning</h1>
+<h2> Fraud Detection with Deep Learning</h2>
+I used the credit card Dataset from Kaggle to train a Deep learning model. The dataset has 2 class labels which are valid transaction and Fraudulent transaction. The task is to create a model that can correctly detect a fraudulent transaction. The model I built was able to make prediction on the test dataset to an accuracy of 99.9%
+The notebook can be found here
+<a href='https://nbviewer.org/github/Ayoola17/Deep-learning-Notebook/blob/main/Deep%20learning/Fraud_detection_with_Deep_learning_.ipynb'>Fraud Detection with Deep Learning</a>
+
+![Screenshot (133)](https://user-images.githubusercontent.com/16554628/210299194-b44441c0-2ce0-4a06-89b3-abe98f70cabc.png)
+
 <h2>Inceptionv3 Image Classification</h2>
-Using the inceptionV3 Architecture for image classification. The cat vs Dog Dataset was use for training the model. The inceptionv3 model was used as the base model with the layers in it set as trainable.
+I used the inceptionV3 Architecture for image classification. The cat vs Dog Dataset was use for training the model. The inceptionv3 model was used as the base model with the layers in it set as trainable.
 <a href='https://github.com/Ayoola17/Deep-learning-Notebook/blob/main/Deep%20learning/Inceptionv3_image_classification.ipynb'>Inceptionv3 Image Classification</a>
 
 ![Screenshot (131)](https://user-images.githubusercontent.com/16554628/210192995-f5b9f0df-e79b-4407-8b4b-05af9e8daadc.png)
