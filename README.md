@@ -10,13 +10,13 @@ The notebook can be found here
 ![Screenshot (133)](https://user-images.githubusercontent.com/16554628/210299194-b44441c0-2ce0-4a06-89b3-abe98f70cabc.png)
 
 <h2>Inceptionv3 Image Classification</h2>
-I used the inceptionV3 Architecture for image classification. The cat vs Dog Dataset was use for training the model. The inceptionv3 model was used as the base model with the layers in it set as trainable.
+I used the inceptionV3 Architecture for image classification. The cat vs Dog Dataset was use for training the model. The inceptionv3 model was used as the base model with the layers in it set as trainable. The model was able prediction on the test dataset to an accuracy of 98.18%. The notebook can be found here
 <a href='https://github.com/Ayoola17/Deep-learning-Notebook/blob/main/Deep%20learning/Inceptionv3_image_classification.ipynb'>Inceptionv3 Image Classification</a>
 
 ![Screenshot (131)](https://user-images.githubusercontent.com/16554628/210192995-f5b9f0df-e79b-4407-8b4b-05af9e8daadc.png)
 
 <h2> Variational Autoencoder</h2>
-Creating a varaitional autoencoder model using the model sub classing method in keras. The model is trained using the fashion mnist dataset from tensorflow dataset which contains pictures of shirts and shoes.
+Creating a varaitional autoencoder model using the model sub classing method in keras. The model is trained using the fashion mnist dataset from tensorflow dataset which contains pictures of shirts and shoes. The notebook can be found here
 <a href='https://github.com/Ayoola17/Deep-learning-Notebook/blob/main/Deep%20learning/VAE_subclassing.ipynb'> Variational Autoencoder</a>
 
 ![Screenshot (127)](https://user-images.githubusercontent.com/16554628/210160344-6bfe6f18-d57e-4811-b4fb-e298fc840e9e.png)
