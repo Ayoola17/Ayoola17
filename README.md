@@ -39,7 +39,7 @@ The Digit Recognizer is a kaggle competition using the MNIST dataset to train a 
 
 ![Screenshot (125)](https://user-images.githubusercontent.com/16554628/210122173-745e3eb2-5e4b-4a8b-941d-549270dcb92f.png)
 
-<h1>Spaceship Titabic</h1>
+<h1>Spaceship Titanic</h1>
 The task in this competition is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. I created a Deep learning model to make my predictions and my public score on kaggle was 80% for this competition.
 The notebook can be found here
 <a href='https://github.com/Ayoola17/competion-notebook/blob/main/Spaceship_Titanic.ipynb'>Spacehip Titanic</a>
