@@ -1,5 +1,5 @@
 <h1>Profile</h1>
-Data scientist with MSc in Data Science and 5+ years' Experience using Machine Learning algorithms to solve challenging problems. I have a strong background in Exploratory Data Analysis and computer vision. I’ve been involved in several Machine Learning and Deep Learning competitions. I'm constantly aiming to develop new skills and gain knowledge on more methods of getting insights from Data.
+Data Engineer with MSc in Data Science and 5+ years' Experience using Machine Learning algorithms to solve challenging problems. I have a strong background in Exploratory Data Analysis and computer vision. I’ve been involved in several Machine Learning and Deep Learning competitions. I'm constantly aiming to develop new skills and gain knowledge on more methods of getting insights from Data.
 
 
 
